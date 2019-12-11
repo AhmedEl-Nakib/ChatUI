@@ -1,4 +1,4 @@
-# ChatUI
+# ChatUI with auto complete message 
 Simple Chat UI using ( Data binding , RecyclerView , MVC Design pattern )  in Version 1 
 Soon Version 2 will be using ( MVVM , Pagination , LiveData ) <3 
 
